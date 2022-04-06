@@ -60,3 +60,5 @@ $ PATH=$PATH:/new/dir/here
 But if you do it like right at the shall prompt, that change will only last until you close the Shell.
 
 We'll take a look at where you do it if you want to keep that change next.
+
+Other environment variables are `$LOGNAME` and `$PWD`.
